@@ -1,0 +1,397 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="royalstudio.in" resolutions="1x" timestamp="1645976306732">
+  <folder name="css">
+    <file name="site_global.css" crc="3979927687"/>
+    <file name="master_a-master.css" crc="411471969" ref="index:about-us:online-mixing:fancy-photo-frame:printing-on-key-rings:photo-binding:whatsapp-invitation:contact:highlights---treasure:services:portfolio:pre---post-wedding:drone-photography:printing-on-mug,-pillow:professional-equipments:image---video-editing:working-method"/>
+    <file name="index.css" crc="167089871" ref="index"/>
+    <file name="iefonts_index.css" crc="58488805" ref="index"/>
+    <file name="about-us.css" crc="4070845930" ref="about-us"/>
+    <file name="online-mixing.css" crc="3785827551" ref="online-mixing"/>
+    <file name="fancy-photo-frame.css" crc="3980073222" ref="fancy-photo-frame"/>
+    <file name="printing-on-key-rings.css" crc="438991173" ref="printing-on-key-rings"/>
+    <file name="photo-binding.css" crc="3933653216" ref="photo-binding"/>
+    <file name="whatsapp-invitation.css" crc="4289003626" ref="whatsapp-invitation"/>
+    <file name="contact.css" crc="3994612078" ref="contact"/>
+    <file name="highlights---treasure.css" crc="4251745710" ref="highlights---treasure"/>
+    <file name="services.css" crc="167060818" ref="services"/>
+    <file name="portfolio.css" crc="4178706850" ref="portfolio"/>
+    <file name="pre---post-wedding.css" crc="160293616" ref="pre---post-wedding"/>
+    <file name="drone-photography.css" crc="4184095952" ref="drone-photography"/>
+    <file name="printing-on-mug_-pillow.css" crc="259043241" ref="printing-on-mug,-pillow"/>
+    <file name="professional-equipments.css" crc="4064455946" ref="professional-equipments"/>
+    <file name="image---video-editing.css" crc="4219720252" ref="image---video-editing"/>
+    <file name="working-method.css" crc="4254308630" ref="working-method"/>
+    <file name="iefonts_working-method.css" crc="4049905515" ref="working-method"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="museutils.js" crc="3939489907" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="webpro.js" crc="3856315280" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:professional-equipments"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1140.php" crc="302024221" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:working-method"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="require.js" crc="4177726516" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="form-u4939.php" crc="252620958" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="163032.jpg" crc="39062442" seo="true" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments">
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="photo-binding" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="whatsapp-invitation" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="highlights---treasure" alt=""/>
+      <caption webpage="pre---post-wedding" alt=""/>
+      <caption webpage="printing-on-mug,-pillow" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="printing-on-key-rings" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="online-mixing" alt=""/>
+      <caption webpage="fancy-photo-frame" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="e373a340-2419-11e5-9816-22000aa61a3e.jpg" crc="114469137" seo="true" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments">
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="photo-binding" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="whatsapp-invitation" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="highlights---treasure" alt=""/>
+      <caption webpage="pre---post-wedding" alt=""/>
+      <caption webpage="printing-on-mug,-pillow" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="printing-on-key-rings" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="online-mixing" alt=""/>
+      <caption webpage="fancy-photo-frame" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="hand-holding-1404623_1920.jpg" crc="199677703" seo="true" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments">
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="photo-binding" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="whatsapp-invitation" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="highlights---treasure" alt=""/>
+      <caption webpage="pre---post-wedding" alt=""/>
+      <caption webpage="printing-on-mug,-pillow" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="printing-on-key-rings" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="online-mixing" alt=""/>
+      <caption webpage="fancy-photo-frame" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="indian_wedding_hands_2019_0.jpg" crc="465680669" seo="true" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments">
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="photo-binding" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="whatsapp-invitation" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="highlights---treasure" alt=""/>
+      <caption webpage="pre---post-wedding" alt=""/>
+      <caption webpage="printing-on-mug,-pillow" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="printing-on-key-rings" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="online-mixing" alt=""/>
+      <caption webpage="fancy-photo-frame" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="indian-wedding-1.jpg" crc="4283002213" seo="true" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments">
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="photo-binding" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="whatsapp-invitation" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="highlights---treasure" alt=""/>
+      <caption webpage="pre---post-wedding" alt=""/>
+      <caption webpage="printing-on-mug,-pillow" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="printing-on-key-rings" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="online-mixing" alt=""/>
+      <caption webpage="fancy-photo-frame" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u4120-4.png" crc="163995586" ref="index:services:working-method:portfolio:contact:about-us:image---video-editing:drone-photography:printing-on-mug,-pillow:printing-on-key-rings:fancy-photo-frame:photo-binding:pre---post-wedding:highlights---treasure:whatsapp-invitation:online-mixing:professional-equipments"/>
+    <file name="06.png" crc="4067715498" ref="index:working-method">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="working-method" alt=""/>
+      <caption webpage="working-method" alt=""/>
+    </file>
+    <file name="logo bw.png" crc="284600167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="360874920" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-u4128-fr.png" crc="4121643081" ref="index"/>
+    <file name="facebook.png" crc="4172500667" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-u4130-fr.png" crc="396326160" ref="index"/>
+    <file name="instagram.png" crc="4255375930" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile-phone.png" crc="466415370" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="336481502" seo="true" ref="index:working-method">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="working-method" alt=""/>
+    </file>
+    <file name="prd_0113-edit.jpg" crc="4043464919" ref="index:portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="drone-photography" alt=""/>
+    </file>
+    <file name="fkp8817-lo-res-u1398-fr.jpg" crc="187913039" ref="index"/>
+    <file name="71iined9kll_sl1134_.jpg" crc="404517987" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fkp8817-lo-res.jpg" crc="297428508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1w2.jpg" crc="4200290796" ref="index:working-method">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone-photography.jpg" crc="311741192" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="3859534462" ref="index:portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indoor-photography-tips.jpg" crc="519363980" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="slideshow-21-scaled.jpg" crc="259027975" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="studio-lighting-1.jpg" crc="174632673" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="4219205708" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook2.png" crc="3937578975" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter2.png" crc="4078170562" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="3961734618" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10-satnam-photography-salzburg-destination-pre-wedding-shoot-photography-3.jpg" crc="3819755820" ref="portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="71iined9kll_sl1134_-u5336-fr.jpg" crc="171219412" ref="portfolio"/>
+    <file name="fkp8817-lo-res-u5321-fr.jpg" crc="131996318" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="canva-backstage-self-confident-man-equipment-workplace-photo-studio-concept-photography-of-fashion-look-1024x683.jpg" crc="3959292950" ref="portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="studio-lighting-1-u5322-fr.jpg" crc="336439522" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="studio-photography-photo-1600x900.jpg" crc="3876880593" ref="portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1535304072jav_4835-u5327-fr.jpg" crc="510526951" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="drone-photography-u5319-fr.jpg" crc="313831967" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="dronephotography1.jpg" crc="4095875570" ref="portfolio:about-us:image---video-editing:drone-photography">
+      <caption webpage="image---video-editing" alt=""/>
+      <caption webpage="drone-photography" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p4-3-u5316-fr.jpg" crc="4234749077" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="p1000265-u5318-fr.jpg" crc="436315172" ref="portfolio:about-us:image---video-editing:drone-photography"/>
+    <file name="1w.jpg" crc="3977133011" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p1000265.jpg" crc="396210737" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1w2-u5340-fr.jpg" crc="22174700" ref="portfolio"/>
+    <file name="p4-3.jpg" crc="27980628" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="preweddingshoot_lead.jpg" crc="335449595" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="udaipur.jpg" crc="3779493741" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1535304072jav_4835.jpg" crc="275514044" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kindpng_45810.png" crc="527169085" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call.png" crc="3916875887" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="eye-u7016-r-fr.jpg" crc="516309425" ref="about-us:image---video-editing:drone-photography"/>
+    <file name="eye-u7014-r-fr.jpg" crc="469848097" ref="about-us:image---video-editing:drone-photography"/>
+    <file name="eye-u7013-r-fr.jpg" crc="94790289" ref="about-us:image---video-editing:drone-photography"/>
+    <file name="drone-photography-u6875-fr.jpg" crc="382615880" ref="drone-photography"/>
+    <file name="1w-u6760-fr.jpg" crc="4106001594" ref="printing-on-mug,-pillow"/>
+    <file name="1w2-u6763-fr.jpg" crc="82551453" ref="printing-on-mug,-pillow"/>
+    <file name="pasted image 844x244.jpg" crc="444334828" seo="true" ref="printing-on-key-rings">
+      <caption webpage="printing-on-key-rings" alt=""/>
+    </file>
+    <file name="pasted image 1109x257.jpg" crc="4257611119" seo="true" ref="fancy-photo-frame">
+      <caption webpage="fancy-photo-frame" alt=""/>
+    </file>
+    <file name="pasted image 1103x260.jpg" crc="3879902832" seo="true" ref="fancy-photo-frame">
+      <caption webpage="fancy-photo-frame" alt=""/>
+    </file>
+    <file name="pasted image 1110x260.jpg" crc="4291136710" seo="true" ref="fancy-photo-frame">
+      <caption webpage="fancy-photo-frame" alt=""/>
+    </file>
+    <file name="pasted image 1207x428.jpg" crc="3838710394" seo="true" ref="fancy-photo-frame">
+      <caption webpage="fancy-photo-frame" alt=""/>
+    </file>
+    <file name="pasted image 1205x427.jpg" crc="3783699732" seo="true" ref="fancy-photo-frame">
+      <caption webpage="fancy-photo-frame" alt=""/>
+    </file>
+    <file name="pasted image 478x299.jpg" crc="14291420" seo="true" ref="photo-binding">
+      <caption webpage="photo-binding" alt=""/>
+    </file>
+    <file name="pasted image 454x244.jpg" crc="4171557833" seo="true" ref="photo-binding">
+      <caption webpage="photo-binding" alt=""/>
+    </file>
+    <file name="pasted image 508x480.jpg" crc="3919221305" seo="true" ref="photo-binding">
+      <caption webpage="photo-binding" alt=""/>
+    </file>
+    <file name="pasted image 814x335.jpg" crc="360963066" seo="true" ref="pre---post-wedding">
+      <caption webpage="pre---post-wedding" alt=""/>
+    </file>
+    <file name="pasted image 401x465.jpg" crc="275378367" seo="true" ref="pre---post-wedding">
+      <caption webpage="pre---post-wedding" alt=""/>
+    </file>
+    <file name="pasted image 338x352.jpg" crc="71102179" seo="true" ref="pre---post-wedding">
+      <caption webpage="pre---post-wedding" alt=""/>
+    </file>
+    <file name="pasted image 325x399.jpg" crc="296086070" seo="true" ref="pre---post-wedding">
+      <caption webpage="pre---post-wedding" alt=""/>
+    </file>
+    <file name="pasted image 633x242.jpg" crc="4001824663" seo="true" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="z6.jpg" crc="3785740080" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="panasonic-ag-ux90-pr.jpg" crc="4172959759" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="pasted image 252x298.jpg" crc="4275195086" seo="true" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="istockphoto-911190112-612x612.jpg" crc="3950344904" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="snap_screen_20220213001003.jpg" crc="396500126" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="snap_screen_20220213001223.jpg" crc="4091648689" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+    <file name="live-streaming-platforms.jpg" crc="8343948" ref="professional-equipments">
+      <caption webpage="professional-equipments" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3923336446" seo="true" mt="1644744697365" redirect="true"/>
+  <file name="services.html" crc="169309911" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="working-method.html" crc="3816493797" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="portfolio.html" crc="531735942" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="contact.html" crc="4293097057" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="about-us.html" crc="4038026609" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="image---video-editing.html" crc="4035973000" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="drone-photography.html" crc="236718792" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="printing-on-mug,-pillow.html" crc="484649107" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="printing-on-key-rings.html" crc="4054297796" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="fancy-photo-frame.html" crc="283029659" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="photo-binding.html" crc="4080136551" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="pre---post-wedding.html" crc="517103556" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="highlights---treasure.html" crc="4192331141" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="whatsapp-invitation.html" crc="404281143" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="online-mixing.html" crc="511093432" seo="true" mt="1644697201068" redirect="true"/>
+  <file name="professional-equipments.html" crc="3861197619" seo="true" mt="1644697201068" redirect="true"/>
+</manifest>
